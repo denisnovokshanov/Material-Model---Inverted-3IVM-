@@ -32,3 +32,5 @@ AppWizard uses "TODO:" to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+
+Full set of code and documents saved in core.zip!
